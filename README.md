@@ -2,7 +2,7 @@
 Code of "Survival-Informed Multi-Omics Kernel Fusion for Cancer Subtyping"
 
 ## Flowchart
-![SIMKF Flowchart](figure/Flowchart.png)
+![SIMKF Flowchart](flowchart/flowchart.png)
 
 ## Requirements
 
